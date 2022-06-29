@@ -1,0 +1,8 @@
+# Internet Blacklist
+# Ad blocking and analytical providers
+#
+# By:
+# azcoigreach@gmail.com
+
+# Test sites
+whitehouse.com
